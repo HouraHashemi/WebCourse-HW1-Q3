@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I am FileD.txt
 ================
+=======
+I am FileD.txt
+>>>>>>> fileD.txt is changed on NewBranch
